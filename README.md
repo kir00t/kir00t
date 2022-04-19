@@ -46,5 +46,5 @@ and CyberSercurity. Im'a open book for news knowledgements.
 </div>
   
 ##
-[comment]: <> (PIN)
+[comment]: <> (PINNED)
   
