@@ -2,15 +2,15 @@
   
 [comment]: <> (GIF_OF_MY_FAVORITE_MOVIE_OR_ANIME_)
 <div>
-<img height="180em" src="https://github.com/matheusreisd/matheusreisd/blob/main/profile_assets/giphy1.gif">
+<img height="200em" src="https://github.com/matheusreisd/matheusreisd/blob/main/profile_assets/giphy1.gif">
 </div>
 
 [comment]: <> (SOCIAL)
 <div style="display: inline_block">
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrhTrrkcsjcKWlchvpdjMjWWlhRWGbNhVwLqPsrlXPfVktnMhrpTVPlvxLlKTRCSKjNdwL"><img align="center" alt="matheus.reis344512@gmail.com" height=22" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="#"><img align="center" alt="matheus.reis344512@gmail.com" height=22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/cairo-matheus-5a5539205/"><img align="center" alt="matheus.reis344512@gmail.com" height=22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="#"><img align="center" alt="matheus.reis344512@gmail.com" height=22" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="#"><img align="center" alt="https://github.com/matheusreisd" height=22" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/matheusreisd"><img align="center" alt="https://github.com/matheusreisd" height=22" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ### AboutMe
