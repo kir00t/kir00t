@@ -1,8 +1,8 @@
 # 👋wellcome to my readme repository.
-  
+
 [comment]: <> (GIF_OF_MY_FAVORITE_MOVIE_OR_ANIME_)
 <div>
-<img height="200em" src="https://github.com/matheusreisd/matheusreisd/blob/main/profile_assets/giphy1.gif">
+<img height="280em" src="https://github.com/matheusreisd/matheusreisd/blob/main/profile_assets/giphy1.gif">
 </div>
 
 [comment]: <> (SOCIAL)
@@ -14,7 +14,14 @@
 </div>
 
 ### AboutMe
-  
+
+- Python Developer
+- BackEnd Developer
+- Competitive Programming/C++
+- HackerRank Player
+- CodeWars Player
+- CodeForces Player
+
 Hi there! My name is Cairo Matheus Damasceno from Brazil
 and i started this repository for talk more about me, link
 my own projects and contributions here. 👀 Im looking to colaborate,
@@ -29,13 +36,15 @@ and CyberSercurity. Im'a open book for news knowledgements.
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusreisd&count_private=true&theme=dark">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreisd&layout=compact&theme=dark">
 </div>
-  
+
+##
 [comment]: <> (BADGES)
 <div style="display: inline_block">
 <a href="google.com#"><img align="center" height=20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
-
+  
+##
 [comment]: <> (PIN)
   
