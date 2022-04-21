@@ -18,9 +18,9 @@
 - Python Developer
 - BackEnd Developer
 - Competitive Programming/C++/Python
-- <a href="https://www.hackerrank.com/matheusreisd?h_r=internal-search&hr_r=1">HackerRank Player</a>
-- <a href="https://www.codewars.com/users/matheusreisd">CodeWars Player</a>
-- <a href="https://codeforces.com/profile/caiteteuz">CodeForces Player</a>
+- <a href="https://www.hackerrank.com/matheusreisd?h_r=internal-search&hr_r=1">HackerRank_Player.py</a>
+- <a href="https://www.codewars.com/users/matheusreisd">CodeWars_Player.py</a>
+- <a href="https://codeforces.com/profile/caiteteuz">CodeForces_Player.cpp</a>
 
 Hi there! My name is Cairo Matheus Damasceno from Brazil
 and i started this repository for talk more about me, link
