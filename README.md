@@ -13,23 +13,27 @@
 <a href="https://github.com/matheusreisd"><img align="center" alt="https://github.com/matheusreisd" height=22" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-### AboutMe
+### About Me
 
 - Bug Hunter
 - Python Developer
 - BackEnd Developer
+- FrontEnd Developer
 - DevOps Developer
-- Competitive Programming player
-- Ctf player
-- <a href="https://www.hackerrank.com/matheusreisd?h_r=internal-search&hr_r=1">HackerRank</a>
-- <a href="https://www.codewars.com/users/matheusreisd">CodeWars</a>
-- <a href="https://codeforces.com/profile/caiteteuz">CodeForces</a>
+- Competitive Programming player at <a href="https://www.hackerrank.com/matheusreisd?h_r=internal-search&hr_r=1">HackerRank</a>, <a href="https://codeforces.com/profile/caiteteuz">CodeForces</a> & <a href="https://www.codewars.com/users/matheusreisd">CodeWars</a>
+- Ctf player at <a href="https://picoctf.org/">PicoCTF</a>
 
 Hi there! My name is Cairo Matheus Damasceno from Brazil
 and i started this repository for talk more about me, link
 my own projects and contributions here. 👀 Im looking to colaborate,
 learn and get more experience. 🌱 Im currently learning Programming
-and CyberSercurity. Im'a open book for new knowledgements.  
+and CyberSercurity. Im'a open book for new knowledgements.
+
+#### Especializations
+
+-
+-
+-
 
 ##
 
