@@ -39,8 +39,8 @@ and CyberSercurity. Im'a open book for new knowledgements.
 [comment]: <> (STATUS)
 <div>
 <a href="https://github.com/matheusreisd/matheusreisd">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusreisd&count_private=true&theme=dark">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreisd&layout=compact&theme=dark">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kir00t&count_private=true&theme=dark">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kir00t&layout=compact&theme=dark">
 </div>
 
 ##
