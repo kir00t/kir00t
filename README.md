@@ -28,12 +28,6 @@ my own projects and contributions here. 👀 Im looking to colaborate,
 learn and get more experience. 🌱 Im currently learning Programming
 and CyberSercurity. Im'a open book for new knowledgements.
 
-#### Especializations
-
--
--
--
-
 ##
 
 [comment]: <> (STATUS)
