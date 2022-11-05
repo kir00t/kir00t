@@ -4,7 +4,6 @@
 - Bug Hunter
 - Programmer, Python and C Developer
 - BackEnd
-- FrontEnd
 - Competitive Programming player at <a href="https://www.hackerrank.com/matheusreisd?h_r=internal-search&hr_r=1">HackerRank</a> & <a href="https://codeforces.com/profile/caiteteuz">CodeForces</a>
 - Ctf player at <a href="https://picoctf.org/">PicoCTF</a>
 
