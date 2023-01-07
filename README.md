@@ -44,7 +44,7 @@ and CyberSercurity. Im'a open book for new knowledgements.
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-<a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+[comment]: < <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> > (PINNED)
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white"></a>
 </div>
   
