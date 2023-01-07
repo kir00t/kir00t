@@ -42,10 +42,10 @@ and CyberSercurity. Im'a open book for new knowledgements.
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-<a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-<a href="#"><img align="center" height=20" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-<a href="#"><img align="center" height=20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img align="center" height=20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="#"><img align="center" height=20" src=""></a>
+<a href="#"><img align="center" height=20" src=""></a>
+<a href="#"><img align="center" height=20" src=""></a>
 </div>
   
 ##
