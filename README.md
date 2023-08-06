@@ -45,8 +45,9 @@ and CyberSercurity. Im'a open book for new knowledgements.
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-
+<a href="#"><img align="center" heigth="20" src="[https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)"></a>
 <a href="#"><img align="center" heigth="20" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
+
 
 ##
 [comment]: <> (PINNED)
