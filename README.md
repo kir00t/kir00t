@@ -42,7 +42,6 @@ and CyberSercurity. Im'a open book for new knowledgements.
 <div style="display: inline_block">
 <a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="#"><img align="center" heigth="20" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img align="center" height=20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="#"><img align="center" heigth="20" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 
 
