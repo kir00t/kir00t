@@ -6,7 +6,6 @@
 - System Admin
 - Programmer, as a programmer, i'm always learning and coding.
 - Competitive Programming player at <a href="https://codeforces.com/profile/caiteteuz">CodeForces</a>
-- Ctf player at <a href="https://picoctf.org/">PicoCTF</a>, <a href="#">HackTheBox</a>,  <a href="#">Pwnable.tw</a> &  <a href="#">Pwnable.tk</a>
 
 [comment]: <> (GIF_OF_MY_FAVORITE_MOVIE_OR_ANIME_)
 <div>
